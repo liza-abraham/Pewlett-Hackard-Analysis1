@@ -1,0 +1,16 @@
+SQL Analysis of Hewlett Packard Employee Database
+Overview:
+The purpose of this analysis is to help Hewlett Packard understand the impacts of the coming, so-called “silver tsunami”. 
+This analysis will query the Hewlett Packard employee database along the indices of title, age, tenure, and other factors, in order to determine an optimal mentorship program. 
+In short: retiring employees who have a high degree of institutional knowledge will be paired with younger employees who are in similar career tracks to pass on that knowledge.
+
+Results:
+There are two major questions to be addressed in this analysis:
+*How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+*Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+*The analysis indicates that there are a large number of roles to be filled as the “silver tsunami” hits. 
+*However, as a corollary, there is, for the time being, a large cohort of mentors available to bring up the next generation of HW leaders. 
+
+Conclusion:
+It is important to begin implementing the mentorship program in earnest to ensure it that institutional knowledge is passed on in an optimal way before the mentor 
+cohort retires in greater numbers. 
